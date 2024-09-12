@@ -1,0 +1,11 @@
+
+- Performed multiple regression analysis on real 'Left For Dead 2' (video game) player data.
+
+- The goals of the analysis:
+	
+	- Predict total kills based on different weapons
+ 	- Obtain an overview of required weapon shots and ammunition requirements 
+
+- Created a dashboard to easily predict total kills and adjust weapon shots.
+
+- The analysis can be used to plan level design to take into account ammunition placement and supply based on the amount of zombies planned for the map and desired level of difficulty. Overly restrictive ammunition supply might make for a frustrating player experience and vice versa. 
