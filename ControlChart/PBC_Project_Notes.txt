@@ -1,0 +1,9 @@
+- Performed Past vs Present analysis of Plant Co. data (Fictional data from Kaggle).
+
+- Switch measures were used to allow the end user switch between different metrics.
+
+- Process Behaviour chart analysis of past Plant Co. data reveals that the process is predictable without any detection rules being triggered.
+
+- There isn't enough 2024 data to analyze predictability yet but as the data gets updated process trends will reveal itself.
+
+- Created a scatterplot to quickly segment customer accounts by gross profit percentage.
